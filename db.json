@@ -2,20 +2,20 @@
     "posts": [
         {
             "id": 1,
-            "name": "iPhone 8 plus",
+            "name": "iPhone 8 ",
             "type": "phone",
             "capacity": 64,
             "price": 599,
-            "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/ipad.png"
+            "image": "https://icases.ua/files/products/iphone8-plus-gold-2017.800x600w.800x600w.png?019dabb9d0bbe0a349ac6487215d13b4"
         },
         {
             "id": 2,
-            "name": "iPhone X plus",
-            "description": "This is iPhone X plus",
+            "name": "iPhone X ",
+            "description": "This is iPhone X ",
             "type": "phone",
             "capacity": 128,
             "price": 999,
-            "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/iphone.png"
+            "image": "https://storeinua.com/image/cache/iphone/iphone%20x/iphone%20x%20silver-800x800.png"
         },
 
         {
@@ -26,6 +26,15 @@
             "capacity": 256,
             "price": 879,
             "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-red-select-201809?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1551226038669"
+        },
+        {
+            "id": 4,
+            "name": "Apple Watch ",
+            "description": "This is Apple Watch ",
+            "type": "watch",
+            "capacity": 4,
+            "price": 379,
+            "image": "https://dream-store.com.ua/image/cache/catalog/2076130155-removebg-preview-787x721.png"
         }
 
 
