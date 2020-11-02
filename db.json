@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "iPhone 8 plus",
+            "type": "phone",
+            "capacity": 64,
+            "price": 599,
+            "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/ipad.png"
+        },
+        {
+            "id": 2,
+            "name": "iPhone X plus",
+            "description": "This is iPhone X plus",
+            "type": "phone",
+            "capacity": 128,
+            "price": 999,
+            "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/iphone.png"
+        }
+    ]
+    
+}
